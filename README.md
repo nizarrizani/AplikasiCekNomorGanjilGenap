@@ -1,5 +1,7 @@
 # AplikasiCekNomorGanjilGenap
  Tugas1- Muhammad Nizar Rizani-(2210010487)
+kelas : 5A Reguler Banjarbaru
+ 
  Informasi Umum:
  Aplikasi Cek Nomor adalah aplikasi desktop berbasis Java Swing yang dirancang untuk membantu pengguna mengidentifikasi sifat-sifat dari suatu angka. Aplikasi ini dapat menentukan apakah sebuah angka termasuk bilangan genap/ganjil dan sekaligus mengidentifikasi apakah angka tersebut merupakan bilangan prima.
 
